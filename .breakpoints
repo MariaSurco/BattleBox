@@ -1,0 +1,28 @@
+{
+  "files": {
+    "CMenu.cpp": [
+      {
+        "id": "54c354c1-c6dc-4832-90f6-5c5f9e5ece68",
+        "line": 1,
+        "version": 3281,
+        "index": 0
+      }
+    ],
+    "CRobotMedianoyPesado.h": [
+      {
+        "id": "adc7d516-0e01-4eb9-bba6-277f67cf36fb",
+        "line": 8,
+        "version": 24,
+        "index": 155
+      }
+    ],
+    "CRobotPesado.h": [
+      {
+        "id": "bc470eb1-db49-42b2-bbeb-82f32f828560",
+        "line": 1,
+        "version": 35,
+        "index": 0
+      }
+    ]
+  }
+}
